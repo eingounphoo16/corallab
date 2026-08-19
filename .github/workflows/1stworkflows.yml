@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Say Hello
-        run: echo "Hello from GitHub Actions!"
+        run: echo "Hello Coral from GitHub Actions!"
 
       - name: Show current directory
         run: pwd
